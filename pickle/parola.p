@@ -1,0 +1,11 @@
+(lp0
+(lp1
+S'selena'
+p2
+aa(lp3
+S'potere'
+p4
+aa(lp5
+S'lacertoso'
+p6
+aa.
